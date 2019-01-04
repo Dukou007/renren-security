@@ -87,8 +87,8 @@ renren-security
 <br>
 
 - Eclipse、IDEA运行AdminApplication.java，则可启动项目【renren-admin】
-- renren-admin访问路径：http://localhost:8080/renren-admin
-- swagger文档路径：http://localhost:8080/renren-admin/swagger/index.html
+- renren-admin访问路径：http://localhost:9090/renren-admin
+- swagger文档路径：http://localhost:9090/renren-admin/swagger/index.html
 - 账号密码：admin/admin
 
 <br>
