@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/Dukou007/renren-security.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.30.30.132/codes/datasuite.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Intellij Idea Project" />
